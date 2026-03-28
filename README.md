@@ -159,4 +159,3 @@ MIT
 
 ## Acknowledgments
 Inspired by industrial SCADA systems and a desire to understand IoT/ML systems from the ground up. Built iteratively with hands-on debugging of real hardware-software integration challenges.
-```
