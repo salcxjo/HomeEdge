@@ -1,3 +1,6 @@
+![Python](https://img.shields.io/badge/python-3.9+-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+![Status](https://img.shields.io/badge/status-active-success.svg)
 # HomeEdge — Local Edge Intelligence for Home Monitoring
 
 A distributed IoT system combining embedded sensing, computer vision, and on-device machine learning for home environmental monitoring and security — built entirely on local hardware with no cloud dependencies.
