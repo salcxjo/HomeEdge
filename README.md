@@ -92,7 +92,12 @@ HomeEdge is a multi-phase embedded systems and edge ML project that integrates:
 - LSTM-based time series forecasting
 - Webhook/email alerting system
 
----
+### Arduino Uno Expansion (Phase 10)
+With an Arduino Uno now available, planned integrations include:
+- Secondary sensor cluster for rooms without WiFi coverage
+- Serial communication bridge to Pi via USB
+- Low-power always-on monitoring with Pi wake-on-event
+- Comparison study: MicroPython (Pico) vs C++ (Arduino) for sensor interfacing performance
 
 ## Project Goals
 
