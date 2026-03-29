@@ -1,0 +1,70 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Configuration files with credentials
+**/config.py
+!**/config.example.py
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Model files (too large for git)
+*.pth
+*.pkl
+*.h5
+*.onnx
+
+# Data files
+*.csv
+data/
+logs/
+motion_frames/
+person_detections/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# OS
+Thumbs.db
+.Trash-*
+
+# Logs
+*.log
+
+# Temporary files
+tmp/
+temp/
+*.tmp
